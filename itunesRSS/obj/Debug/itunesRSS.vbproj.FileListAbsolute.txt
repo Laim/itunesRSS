@@ -1,0 +1,44 @@
+C:\Users\lar02lstuart\AppData\Local\Temporary Projects\itunesRSS\bin\Debug\itunesRSS.exe
+C:\Users\lar02lstuart\AppData\Local\Temporary Projects\itunesRSS\bin\Debug\itunesRSS.pdb
+C:\Users\lar02lstuart\AppData\Local\Temporary Projects\itunesRSS\bin\Debug\itunesRSS.xml
+C:\Users\lar02lstuart\AppData\Local\Temporary Projects\itunesRSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lar02lstuart\AppData\Local\Temporary Projects\itunesRSS\obj\Debug\itunesRSS.Form1.resources
+C:\Users\lar02lstuart\AppData\Local\Temporary Projects\itunesRSS\obj\Debug\itunesRSS.Resources.resources
+C:\Users\lar02lstuart\AppData\Local\Temporary Projects\itunesRSS\obj\Debug\itunesRSS.vbproj.GenerateResource.Cache
+C:\Users\lar02lstuart\AppData\Local\Temporary Projects\itunesRSS\obj\Debug\itunesRSS.exe
+C:\Users\lar02lstuart\AppData\Local\Temporary Projects\itunesRSS\obj\Debug\itunesRSS.xml
+C:\Users\lar02lstuart\AppData\Local\Temporary Projects\itunesRSS\obj\Debug\itunesRSS.pdb
+C:\Users\Laim\Desktop\itunesRSS\itunesRSS\obj\Debug\itunesRSS.exe
+C:\Users\Laim\Desktop\itunesRSS\itunesRSS\obj\Debug\itunesRSS.xml
+C:\Users\Laim\Desktop\itunesRSS\itunesRSS\obj\Debug\itunesRSS.pdb
+C:\Users\Laim\Desktop\itunesRSS\itunesRSS\bin\Debug\itunesRSS.exe
+C:\Users\Laim\Desktop\itunesRSS\itunesRSS\bin\Debug\itunesRSS.pdb
+C:\Users\Laim\Desktop\itunesRSS\itunesRSS\bin\Debug\itunesRSS.xml
+C:\Users\Laim\Desktop\itunesRSS\itunesRSS\obj\Debug\itunesRSS.Form1.resources
+C:\Users\Laim\Desktop\itunesRSS\itunesRSS\obj\Debug\itunesRSS.Resources.resources
+C:\Users\Laim\Desktop\itunesRSS\itunesRSS\obj\Debug\itunesRSS.vbproj.GenerateResource.Cache
+C:\Users\Laim\Desktop\itunesRSS\itunesRSS\bin\Debug\itunesRSS.exe.config
+C:\Users\Laim\Desktop\itunesRSS\itunesRSS\obj\Debug\itunesRSS.frmSettings.resources
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesRSS\itunesRSS\bin\Debug\itunesRSS.exe.config
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesRSS\itunesRSS\obj\Debug\itunesRSS.exe
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesRSS\itunesRSS\obj\Debug\itunesRSS.xml
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesRSS\itunesRSS\obj\Debug\itunesRSS.pdb
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesRSS\itunesRSS\bin\Debug\itunesRSS.exe
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesRSS\itunesRSS\bin\Debug\itunesRSS.pdb
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesRSS\itunesRSS\bin\Debug\itunesRSS.xml
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesRSS\itunesRSS\obj\Debug\itunesRSS.Form1.resources
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesRSS\itunesRSS\obj\Debug\itunesRSS.frmSettings.resources
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesRSS\itunesRSS\obj\Debug\itunesRSS.Resources.resources
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesRSS\itunesRSS\obj\Debug\itunesRSS.vbproj.GenerateResource.Cache
+F:\General Files\Programs\For Site\itunesRSS\itunesRSS\bin\Debug\itunesRSS.exe.config
+F:\General Files\Programs\For Site\itunesRSS\itunesRSS\obj\Debug\itunesRSS.exe
+F:\General Files\Programs\For Site\itunesRSS\itunesRSS\obj\Debug\itunesRSS.xml
+F:\General Files\Programs\For Site\itunesRSS\itunesRSS\obj\Debug\itunesRSS.pdb
+F:\General Files\Programs\For Site\itunesRSS\itunesRSS\bin\Debug\itunesRSS.exe
+F:\General Files\Programs\For Site\itunesRSS\itunesRSS\bin\Debug\itunesRSS.pdb
+F:\General Files\Programs\For Site\itunesRSS\itunesRSS\bin\Debug\itunesRSS.xml
+F:\General Files\Programs\For Site\itunesRSS\itunesRSS\obj\Debug\itunesRSS.vbprojResolveAssemblyReference.cache
+F:\General Files\Programs\For Site\itunesRSS\itunesRSS\obj\Debug\itunesRSS.Form1.resources
+F:\General Files\Programs\For Site\itunesRSS\itunesRSS\obj\Debug\itunesRSS.frmSettings.resources
+F:\General Files\Programs\For Site\itunesRSS\itunesRSS\obj\Debug\itunesRSS.Resources.resources
+F:\General Files\Programs\For Site\itunesRSS\itunesRSS\obj\Debug\itunesRSS.vbproj.GenerateResource.Cache
